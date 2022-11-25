@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/Users/gillifish/Desktop/GameDev/Monogame/Projects/Pong/Content/File.spritefont</SourceFile>
+  <SourceTime>2022-11-25T18:00:29.4851688-05:00</SourceTime>
+  <DestFile>/Users/gillifish/Desktop/GameDev/Monogame/Projects/Pong/Content/bin/DesktopGL/Content/GameFont.xnb</DestFile>
+  <DestTime>2022-11-25T18:00:36.4745981-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

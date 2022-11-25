@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/Users/gillifish/Desktop/GameDev/Monogame/Projects/Pong/Content/ball.png","/Users/gillifish/Desktop/GameDev/Monogame/Projects/Pong/Content/bin/DesktopGL/Content/ball.xnb","TextureProcessor","Texture2DContent",74,485,0.221009
+"/Users/gillifish/Desktop/GameDev/Monogame/Projects/Pong/Content/File.spritefont","/Users/gillifish/Desktop/GameDev/Monogame/Projects/Pong/Content/bin/DesktopGL/Content/GameFont.xnb","FontDescriptionProcessor","SpriteFontContent",2008,136223,0.502848
+"/Users/gillifish/Desktop/GameDev/Monogame/Projects/Pong/Content/paddle.png","/Users/gillifish/Desktop/GameDev/Monogame/Projects/Pong/Content/bin/DesktopGL/Content/paddle.xnb","TextureProcessor","Texture2DContent",106,6485,0.32253
