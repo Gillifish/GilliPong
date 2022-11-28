@@ -148,7 +148,7 @@ public class PongMain : Game
 
         if((ball.pos.X - ball.GetRadius() > p1.pos.X && ball.pos.X - ball.GetRadius() < p1.pos.X + p1._texture.Width) && (ball.pos.Y > p1.pos.Y && ball.pos.Y < p1.pos.Y + p1._texture.Height))
         {
-            ball.xVelocity *= -1;
+            ball.xVelocity *= -1.05f;
             ball.yVelocity = (float)(ball.speed * -Math.Sin(GetBounceAngle(p1)));
         }
         
@@ -156,7 +156,7 @@ public class PongMain : Game
 
         if((ball.pos.X + ball.GetRadius() > p2.pos.X && ball.pos.X + ball.GetRadius() < p2.pos.X + p2._texture.Width) && (ball.pos.Y > p2.pos.Y && ball.pos.Y < p2.pos.Y + p2._texture.Height))
         {
-            ball.xVelocity *= -1;
+            ball.xVelocity *= -1.05f;
             ball.yVelocity = (float)(ball.speed * -Math.Sin(GetBounceAngle(p2)));
         }
 

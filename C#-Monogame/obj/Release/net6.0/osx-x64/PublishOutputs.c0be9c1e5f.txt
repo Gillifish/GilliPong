@@ -1,0 +1,7 @@
+/Users/gillifish/Desktop/GameDev/Monogame/Projects/Pong/Publish/Pong.pdb
+/Users/gillifish/Desktop/GameDev/Monogame/Projects/Pong/Publish/Content/ball.xnb
+/Users/gillifish/Desktop/GameDev/Monogame/Projects/Pong/Publish/Content/GameFont.xnb
+/Users/gillifish/Desktop/GameDev/Monogame/Projects/Pong/Publish/Content/paddle.xnb
+/Users/gillifish/Desktop/GameDev/Monogame/Projects/Pong/Publish/libSDL2.dylib
+/Users/gillifish/Desktop/GameDev/Monogame/Projects/Pong/Publish/libopenal.1.dylib
+/Users/gillifish/Desktop/GameDev/Monogame/Projects/Pong/Publish/Pong
